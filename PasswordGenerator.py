@@ -11,4 +11,7 @@
 # end-user than the average password, but also more computationally
 # complex than the average password. 
 
-print ("Hello World")
+wordTypes = ('noun', 'adj', 'adv')
+
+def validWordType(w):
+    return w in wordTypes

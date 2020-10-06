@@ -28,7 +28,7 @@ To run this project, run the PasswordGenerator.py file.
 
 ## Development Tasks
 1. ~~Test new environment w/ helloworld~~
-2. Test unit testing on new environment
+2. ~~Test unit testing on new environment~~
 3. Parse Dictionary CSV for a random...
     1. noun
     2. adverb
