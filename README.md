@@ -18,9 +18,9 @@ September 2020 to October 2020
 
 ## Technologies
 This project is created with and has dependencies on the following:
-Python 3.8.2
-Python-> pip3
-pip3-> pytest 6.1.1
+* Python 3.8.2
+* pip3
+* pytest 6.1.1
 
 
 ## Setup
