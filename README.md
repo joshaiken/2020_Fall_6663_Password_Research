@@ -11,8 +11,8 @@ September 2020 to October 2020
 * [Sources & Credits](#sources)
 
 ## About
- 2020 Fall CSCI 6663 - Software Security
- Professor: Minhaz Zibran, University of New Orleans 
+ 2020 Fall CSCI 6663 - Software Security__
+ Professor: Minhaz Zibran, University of New Orleans__ 
  
  This tool was written as part of a research project for the above class to generate passwords that are (hopefully, as this is the thesis being tested) both more memorable (to an end-user) and computationally complex than an average password. 
 
