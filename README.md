@@ -24,47 +24,29 @@ Python 3.8.2
 To run this project, run the PasswordGenerator.py file.
 
 ## Development Plan
-1 - Test new environment w/ helloworld
-
-2 - Test unit testing on new environment
-
-3 - Parse Dictionary CSV for a random...
-
-    a - noun
-
-    b - adverb
-
-    c - adjective
-
-4 - Output CSV of 1000 enties each of...
-
-    a - 4 words (CamelCase)
-
-    b - 3 words (CamelCase)
-
-5 - Manually Evaluate terms for reasonableness
-
-6 - Implement "Coherent" structures which are allowed to be generated
-
-    e.g. "AdjectiveNounNounNoun" = "CorrectHorseBatteryStaple" (thanks XKCD - https://xkcd.com/936)
-
-7 - Make Seperate function to query PasswordGenerator.py and retreive output
-
-    a - print to command line
-
-    b - output to alert box
-
-    c - output to string
+1. ~~Test new environment w/ helloworld~~
+2. Test unit testing on new environment
+3. Parse Dictionary CSV for a random...
+    1. noun
+    2. adverb
+    3. adjective
+4. Output CSV of 1000 enties each of...
+    1. 4 words (CamelCase)
+    2. 3 words (CamelCase)
+5. Manually Evaluate terms for reasonableness
+6. Implement "Coherent" structures which are allowed to be generated
+    1. e.g. "AdjectiveNounNounNoun" = "CorrectHorseBatteryStaple" (thanks XKCD - https://xkcd.com/936)
+7. Make Seperate function to query PasswordGenerator.py and retreive output
+    1. print to command line
+    2. output to alert box
+    3. output to string
 
 ----- Minimum Usable Product for Research Purposes -----
 
-8 - Prompt user for WordNik API key
-
-9 - Get Random word from API
-
-10 - Classify word as a "noun, adjective, adverb" or discard it
-
-11 - Generate Passwords from list
+8. Prompt user for WordNik API key
+9. Get Random word from API
+10. Classify word as a "noun, adjective, adverb" or discard it
+11. Generate Passwords from list
 
 ## Sources & Credits
 No credits as of yet. 
