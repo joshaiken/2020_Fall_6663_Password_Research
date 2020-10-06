@@ -1,7 +1,7 @@
 # Memorable Password Generator
-Author: Joshua Aiken
-September 2020 to October 2020
-2020_Fall_6663_Password_Research
+* Author: Joshua Aiken
+* September 2020 to October 2020
+* 2020_Fall_6663_Password_Research
 
 ## Table of Contents
 * [About](#about)
@@ -11,8 +11,8 @@ September 2020 to October 2020
 * [Sources & Credits](#sources)
 
 ## About
- 2020 Fall CSCI 6663 - Software Security__
- Professor: Minhaz Zibran, University of New Orleans__ 
+* 2020 Fall CSCI 6663 - Software Security__
+* Professor: Minhaz Zibran, University of New Orleans 
  
  This tool was written as part of a research project for the above class to generate passwords that are (hopefully, as this is the thesis being tested) both more memorable (to an end-user) and computationally complex than an average password. 
 
