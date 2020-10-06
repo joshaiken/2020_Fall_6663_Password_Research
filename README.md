@@ -7,7 +7,7 @@ September 2020 to October 2020
 * [About](#about)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Development Plan](#development-plan)
+* [Development Tasks](#development-plan)
 * [Sources & Credits](#sources)
 
 ## About
@@ -19,11 +19,14 @@ September 2020 to October 2020
 ## Technologies
 This project is created with and has dependencies on the following:
 Python 3.8.2
+Python-> pip3
+pip3-> pytest 6.1.1
+
 
 ## Setup
 To run this project, run the PasswordGenerator.py file.
 
-## Development Plan
+## Development Tasks
 1. ~~Test new environment w/ helloworld~~
 2. Test unit testing on new environment
 3. Parse Dictionary CSV for a random...
