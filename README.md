@@ -53,3 +53,8 @@ To run this project, run the PasswordGenerator.py file.
 
 ## Sources & Credits
 No credits as of yet. 
+
+## Useless Note
+Personally, I prefer using ~~strikethrough~~ to show progress over
+- [ ] checkboxes, strictly because I enjoy the wry humor one can communicate with them 
+- [x] even though I have not problem wht checkboxes
